@@ -42,7 +42,7 @@ session_start();
       } 
       ?> 
       >
-        <div class="title"><span>Login</span></div>
+        <div class="title"><span>LOGIN</span></div>
         <form action="includes/login.inc.php" method="post">
           <div class="row">
             <i class="fas fa-user"></i>
@@ -71,7 +71,7 @@ session_start();
       } 
       ?> 
       >
-        <div class="title"><span>Signup</span></div>
+        <div class="title"><span>SIGNUP</span></div>
         <form action="includes/signup.inc.php" method="post">
         <div class="row">
             <i class="fas fa-user"></i>
